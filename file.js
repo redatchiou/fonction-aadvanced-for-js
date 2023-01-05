@@ -59,3 +59,6 @@ const totale = clients.reduce(function (total, client) {
     return total += client.montant
 },0);
 console.log(totale);
+
+
+
